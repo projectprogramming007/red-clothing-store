@@ -1,0 +1,12 @@
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\EntityLayer\obj\Debug\EntityLayer.pdb

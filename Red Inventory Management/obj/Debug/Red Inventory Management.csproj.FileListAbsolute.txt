@@ -1,0 +1,162 @@
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\Red Inventory Management.exe.config
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\Red Inventory Management.exe
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\Red Inventory Management.pdb
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\BusinessLayer.dll
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\EntityFramework.dll
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\EntityFramework.SqlServer.dll
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\EntityLayer.dll
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\log4net.dll
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\DataLayer.dll
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\BusinessLayer.pdb
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\EntityLayer.pdb
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\EntityFramework.xml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\EntityFramework.SqlServer.xml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\log4net.xml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\DataLayer.pdb
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inventory Management.csproj.AssemblyReference.cache
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Notifications\Resources\ButtonStyle.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Notifications\GrowlNotifiactions.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\ListDetails\InventoryListDetailsView.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\InventoryListView.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\PartnerTransactionsListView.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\ListDetails\PartnerTransactionsListDetailsView.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Database\SetupConnectionView.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Database\SetupConnectionMenuView.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\PartnersTableView.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\ProductCategoriesTableView.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\ProductsTableView.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditProductView.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditProductCategoryView.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditPartnerView.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditTransactionView.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\ListDetails\ListDetailsWindow.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\ListView.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Login\EditUserWindow.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditItemWindow.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Login\LoginWindow.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\MainWindow.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Login\NewUserWindow.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Database\SetupConnectionWindow.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\TableView.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\UsersTableView.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\TransactionsTableView.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\App.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inventory Management_MarkupCompile.cache
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inventory Management_MarkupCompile.lref
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\App.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Notifications\GrowlNotifiactions.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\ViewModel\ViewModels.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Resources\MainResources.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\ListDetails\InventoryListDetailsView.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\InventoryListView.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\PartnerTransactionsListView.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\ListDetails\PartnerTransactionsListDetailsView.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Database\SetupConnectionView.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Database\SetupConnectionMenuView.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\PartnersTableView.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\ProductCategoriesTableView.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\ProductsTableView.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditProductView.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditProductCategoryView.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditPartnerView.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditTransactionView.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\ListDetails\ListDetailsWindow.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\ListView.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Login\EditUserWindow.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditItemWindow.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Login\LoginWindow.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\MainWindow.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Login\NewUserWindow.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Database\SetupConnectionWindow.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\TableView.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\UsersTableView.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\TransactionsTableView.baml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inventory Management.g.resources
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red_Inventory_Management.Properties.Resources.resources
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inventory Management.csproj.GenerateResource.cache
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inventory Management.csproj.CoreCompileInputs.cache
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inventory Management.csproj.CopyComplete
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inventory Management.exe
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inventory Management.pdb
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\Red Inventory Management.exe.config
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\Red Inventory Management.exe
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\Red Inventory Management.pdb
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\BusinessLayer.dll
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\EntityFramework.dll
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\EntityLayer.dll
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\log4net.dll
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\DataLayer.dll
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\BusinessLayer.pdb
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\EntityLayer.pdb
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\EntityFramework.xml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\log4net.xml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\DataLayer.pdb
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inventory Management.csproj.AssemblyReference.cache
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Notifications\Resources\ButtonStyle.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Notifications\GrowlNotifiactions.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\ListDetails\InventoryListDetailsView.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\InventoryListView.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\PartnerTransactionsListView.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\ListDetails\PartnerTransactionsListDetailsView.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Database\SetupConnectionView.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Database\SetupConnectionMenuView.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\PartnersTableView.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\ProductCategoriesTableView.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\ProductsTableView.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditProductView.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditProductCategoryView.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditPartnerView.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditTransactionView.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\ListDetails\ListDetailsWindow.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\ListView.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Login\EditUserWindow.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditItemWindow.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Login\LoginWindow.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\MainWindow.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Login\NewUserWindow.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Database\SetupConnectionWindow.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\TableView.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\UsersTableView.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\TransactionsTableView.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\App.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inventory Management_MarkupCompile.cache
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inventory Management_MarkupCompile.lref
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\App.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Notifications\GrowlNotifiactions.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\ViewModel\ViewModels.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Resources\MainResources.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\ListDetails\InventoryListDetailsView.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\InventoryListView.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\PartnerTransactionsListView.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\ListDetails\PartnerTransactionsListDetailsView.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Database\SetupConnectionView.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Database\SetupConnectionMenuView.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\PartnersTableView.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\ProductCategoriesTableView.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\ProductsTableView.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditProductView.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditProductCategoryView.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditPartnerView.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditTransactionView.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\ListDetails\ListDetailsWindow.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Lists\ListView.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Login\EditUserWindow.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\Edit\EditItemWindow.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Login\LoginWindow.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\MainWindow.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Login\NewUserWindow.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Database\SetupConnectionWindow.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\TableView.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\UsersTableView.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Views\Tables\TransactionsTableView.baml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inventory Management.g.resources
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red_Inventory_Management.Properties.Resources.resources
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inventory Management.csproj.GenerateResource.cache
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inventory Management.csproj.CoreCompileInputs.cache
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inve.C98D66F7.Up2Date
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inventory Management.exe
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\Red Inventory Management\obj\Debug\Red Inventory Management.pdb

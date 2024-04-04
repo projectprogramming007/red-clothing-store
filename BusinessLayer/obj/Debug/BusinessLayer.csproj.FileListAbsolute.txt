@@ -1,0 +1,30 @@
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\EntityLayer.dll
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\log4net.dll
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\EntityLayer.pdb
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\log4net.xml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\log4net.dll
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\log4net.xml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\nites\Downloads\Red-Inventory-Management\Red software\BusinessLayer\obj\Debug\BusinessLayer.pdb
